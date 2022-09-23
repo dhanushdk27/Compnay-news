@@ -1,0 +1,15 @@
+
+  .site-layout-background {
+    background: #fff;
+  }
+  p{
+
+    padding: 2px 12px;
+    border-radius: 55px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    color: #5c2016;
+    margin-right: 28px;
+    display: flex;
+  }

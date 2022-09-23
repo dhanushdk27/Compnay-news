@@ -1,0 +1,28 @@
+#card{
+    background-color: rgba(255, 255, 255, 0.307);
+    border: none;
+    height: fit-content;
+}
+#card:hover{
+    background-color: transparent;
+}
+.sticky {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+.sticky-wrapper {
+    position: relative;
+    height: 3rem;
+   
+}
+
+.sticky .sticky-inner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    width: 100%;
+    background-color: #fff;
+}

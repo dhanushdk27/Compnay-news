@@ -1,0 +1,33 @@
+#image{
+  margin-left: -20rem;
+  animation: rotation 20s infinite linear;
+  position: absolute;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+#image1{
+  margin-left: 90rem;
+  animation: rotation 20s infinite linear;
+  position: absolute;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+h2{
+  color: #fff;
+}
+

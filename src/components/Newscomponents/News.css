@@ -1,0 +1,15 @@
+p{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #2a2a2a;
+}
+p:hover {
+color:#ffbf00;
+  }
+.text{
+  display: flex;
+  justify-content: space-around;
+
+}
